@@ -1,0 +1,9 @@
+D:\projects\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\netcoreapp3.1\ConsignmentShopLibrary.deps.json
+D:\projects\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\netcoreapp3.1\ConsignmentShopLibrary.dll
+D:\projects\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\netcoreapp3.1\ConsignmentShopLibrary.pdb
+D:\projects\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\netcoreapp3.1\ConsignmentShopLibrary.csprojAssemblyReference.cache
+D:\projects\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\netcoreapp3.1\ConsignmentShopLibrary.AssemblyInfoInputs.cache
+D:\projects\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\netcoreapp3.1\ConsignmentShopLibrary.AssemblyInfo.cs
+D:\projects\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\netcoreapp3.1\ConsignmentShopLibrary.csproj.CoreCompileInputs.cache
+D:\projects\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\netcoreapp3.1\ConsignmentShopLibrary.dll
+D:\projects\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\netcoreapp3.1\ConsignmentShopLibrary.pdb
